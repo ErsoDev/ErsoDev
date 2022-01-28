@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErsoDev
-- 👀 I’m interested in RPA
+- 👀 I’m interested in RPA also working as RPA Developer
 - 🌱 I’m currently learning JavaScript
 
 
